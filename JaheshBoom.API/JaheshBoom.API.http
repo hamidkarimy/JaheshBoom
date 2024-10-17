@@ -1,0 +1,6 @@
+@JaheshBoom.API_HostAddress = http://localhost:5075
+
+GET {{JaheshBoom.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

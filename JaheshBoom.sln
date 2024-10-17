@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaheshBoom.Services", "JaheshBoom.Services\JaheshBoom.Services.csproj", "{CC2AD894-A392-4341-B9A8-E611A71D3C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaheshBoom.API", "JaheshBoom.API\JaheshBoom.API.csproj", "{37961838-A3B1-49D9-B067-51A321B9D8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2AD894-A392-4341-B9A8-E611A71D3C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2AD894-A392-4341-B9A8-E611A71D3C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2AD894-A392-4341-B9A8-E611A71D3C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2AD894-A392-4341-B9A8-E611A71D3C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37961838-A3B1-49D9-B067-51A321B9D8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37961838-A3B1-49D9-B067-51A321B9D8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37961838-A3B1-49D9-B067-51A321B9D8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37961838-A3B1-49D9-B067-51A321B9D8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
